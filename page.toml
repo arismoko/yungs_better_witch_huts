@@ -17,5 +17,9 @@ A port of YUNG's Better Witch Huts by YUNGNICKYOUNG and Acarii, under the LGPL v
 categories = ["worldgen", "adventure"]
 
 [[screenshots]]
-path = "page/world.png"
-caption = "TODO"
+path = "page/witch-hut.png"
+caption = "A witch hut on its legs at the edge of a swamp."
+
+[[screenshots]]
+path = "page/witch-circle.png"
+caption = "A witch circle in the swamp."
