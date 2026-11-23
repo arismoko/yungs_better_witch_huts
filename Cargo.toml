@@ -1,0 +1,10 @@
+[package]
+name = "betterwitchhuts"
+version = "0.3.1"
+edition = "2024"
+license = "LGPL-3.0-only"
+description = "YUNG's Better Witch Huts for Sunrise: the vanilla swamp hut locate hint"
+
+[dependencies]
+# The pinned SDK's API crate, fetched into .sunrise/sdk/ by any `cargo sunrise-mod` command.
+sunrise-mod-api = { path = ".sunrise/sdk/api/crates/sunrise-mod-api" }
