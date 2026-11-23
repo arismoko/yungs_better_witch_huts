@@ -38,7 +38,10 @@ impl Hooks for Mod {
         if !locates_vanilla_swamp_hut(event.command) {
             return Flow::Continue;
         }
-        event.replies.push(Text::literal(MESSAGE));
+        // A command exception shows in red (`CommandSourceStack.sendFailure`).
+        let mut message = Text::literal(MESSAGE);
+        message.style.color = Some("red".to_owned());
+        event.replies.push(message);
         Flow::Cancel
     }
 }
