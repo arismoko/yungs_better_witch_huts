@@ -1,5 +1,5 @@
 {
-  "type": "yungsapi:yung_jigsaw",
+  "type": "minecraft:jigsaw",
   "biomes": "#betterwitchhuts:has_structure/witch_circle",
   "start_pool": "betterwitchhuts:circles",
   "step": "surface_structures",
