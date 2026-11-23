@@ -143,6 +143,1972 @@
     },
     {
       "processor_type": "sunrise:pick",
+      "block": "minecraft:brewing_stand",
+      "picks": [
+        {
+          "below": 0.025,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.0375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.05,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.075,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.0875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.1,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.125,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.1375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.15,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.175,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.1875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.2,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:glistering_melon_slice",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:healing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.225,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.2375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.25,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.275,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.2875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.3,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.325,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.3375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.35,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.3875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.4,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:sugar",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:swiftness"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.425,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.4375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.45,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.475,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.4875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.5,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.525,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.5375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.55,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.575,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.5875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:pufferfish",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:water_breathing"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.625,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.6375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.65,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.675,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.6875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.7,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.725,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.7375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.75,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.775,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.7875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.8,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:golden_carrot",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:night_vision"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.825,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.8375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.85,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 2
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.8875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.9,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 3
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.925,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.9375,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.95,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 4
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.975,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "below": 0.9875,
+          "state": {
+            "id": "minecraft:brewing_stand"
+          },
+          "nbt": {
+            "id": "minecraft:brewing_stand",
+            "Items": [
+              {
+                "Slot": 3,
+                "id": "minecraft:phantom_membrane",
+                "count": 5
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              },
+              {
+                "Slot": 0,
+                "id": "minecraft:potion",
+                "count": 1,
+                "components": {
+                  "minecraft:potion_contents": {
+                    "potion": "minecraft:slow_falling"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:brewing_stand"
+        },
+        "nbt": {
+          "id": "minecraft:brewing_stand",
+          "Items": [
+            {
+              "Slot": 3,
+              "id": "minecraft:phantom_membrane",
+              "count": 5
+            },
+            {
+              "Slot": 1,
+              "id": "minecraft:potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:slow_falling"
+                }
+              }
+            },
+            {
+              "Slot": 2,
+              "id": "minecraft:potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:slow_falling"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "sunrise:pick",
       "block": "minecraft:potted_red_mushroom",
       "picks": [
         {

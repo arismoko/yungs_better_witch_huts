@@ -8,11 +8,8 @@ A port of [YUNG's Better Witch Huts](https://github.com/YUNG-GANG/YUNGs-Better-W
 
 - New witch huts on legs, with their interiors, witches, black cats and chest loot, in swamps and mangrove swamps.
 - Witch circles, a second structure in swamps.
+- Brewing stands hold a half-brewed potion: an ingredient and one or two bottles of healing, swiftness, water breathing, night vision or slow falling, as in the original.
 - Vanilla swamp huts no longer generate, as in the original (its "Disable Vanilla Witch Huts" option is on by default).
-
-## Differences from the original
-
-- The brewing stands are placed empty; the processor that fills them is Java code.
 
 ## Building
 
