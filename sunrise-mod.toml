@@ -1,0 +1,10 @@
+# YUNG's Better Witch Huts for Sunrise: content only (data/ and assets/), no code.
+id = "betterwitchhuts"
+name = "YUNG's Better Witch Huts"
+version = "0.3.0"
+description = "Witch huts redesigned, plus witch circles, in swamps and mangrove swamps."
+authors = ["YUNGNICKYOUNG", "Acarii"]
+license = "LGPL-3.0-only"
+credits = "Ported to Minecraft 26.3 by AdLf0208, and to Sunrise by arismoko."
+homepage = "https://github.com/arismoko/yungs_better_witch_huts"
+side = "both"

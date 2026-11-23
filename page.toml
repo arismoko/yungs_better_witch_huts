@@ -1,0 +1,21 @@
+summary = "Witch huts redesigned, plus witch circles, in swamps and mangrove swamps."
+description = """
+Witch huts redesigned, plus witch circles, in swamps and mangrove swamps.
+
+What it adds:
+
+- New witch huts on legs, with their interiors, witches, black cats and chest loot, in swamps and mangrove swamps.
+- Witch circles, a second structure in swamps.
+- Vanilla swamp huts no longer generate, as in the original (its "Disable Vanilla Witch Huts" option is on by default).
+
+Differences from the original:
+
+- The brewing stands are placed empty; the processor that fills them is Java code.
+
+A port of YUNG's Better Witch Huts by YUNGNICKYOUNG and Acarii, under the LGPL v3.0 only.
+"""
+categories = ["worldgen", "adventure"]
+
+[[screenshots]]
+path = "page/world.png"
+caption = "TODO"

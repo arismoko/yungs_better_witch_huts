@@ -1,62 +1,32 @@
-# YUNG's Better Witch Huts — a Horizon port
+# YUNG's Better Witch Huts for Sunrise
 
-**YUNG's Better Witch Huts** is a Minecraft mod. Overhauls witch huts in swamp biomes. This repository is a **port of it to [Horizon](https://github.com/horizon-rust/horizon)**, the Rust engine for Minecraft Java 26.3. It carries the complete source of the port plus the content files it ships, and installs as a single `.hmod` package.
+Witch huts redesigned, plus witch circles, in swamps and mangrove swamps.
 
-Upstream: [YUNG-GANG/YUNGs-Better-Witch-Huts](https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts) — licence **LGPL-3.0-only**.
+A port of [YUNG's Better Witch Huts](https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts) by YUNGNICKYOUNG and Acarii to [Sunrise](https://playsunrise.net) (Minecraft Java 26.3). It is a content mod: the original's structures, templates, loot tables and strings, upgraded to 26.3, with no code. The 26.3 carry is by AdLf0208 ([AdLf0208/yungs_better_witch_huts](https://github.com/AdLf0208/yungs_better_witch_huts)); this fork moves it to Sunrise.
 
-| | |
-|---|---|
-| Upstream mod | YUNG's Better Witch Huts ([source](https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts)) |
-| Ported to | Horizon 0b14f8a, Minecraft Java 26.3, mod API `0.2` |
-| Package | `betterwitchhuts.hmod` (install it with the Horizon launcher) |
-| Licence | **LGPL-3.0-only** — the upstream mod's licence; see [Licence and credit](#licence-and-credit) |
+## What it adds
 
-## What this port implements
+- New witch huts on legs, with their interiors, witches, black cats and chest loot, in swamps and mangrove swamps.
+- Witch circles, a second structure in swamps.
+- Vanilla swamp huts no longer generate, as in the original (its "Disable Vanilla Witch Huts" option is on by default).
 
-- **`yungsapi:yung_jigsaw` needs no rewriting**: the game runs it, including
-- **A Java processor in a structure's list is fatal, not cosmetic**: the game
-- **`/place structure <id>` needs the whole start box's chunks loaded**
-- **Chest loot rolls on placement** (the template's `LootTable` fills the chest
-- **The carry tool's registry check is the cheap gate**: it caught the one block
+## Differences from the original
 
-## Not yet ported
+- The brewing stands are placed empty; the processor that fills them is Java code.
 
-- **`BrewingStandProcessor`** — it writes item stacks into the block entity
-- **Vanilla's swamp hut is not disabled.** `ConfigGeneralNeoForge` defaults
-- **`/locate structure minecraft:swamp_hut` still answers with the vanilla
-- **The potion components are not shown by any `horizon-ctl` reply.** The chest
-- **`data/morevillagers/…` (explorer maps) is out**: it is that mod's
+## Building
 
-## Installing
+With the Sunrise mod tool (`cargo sunrise-mod`, from the Sunrise SDK):
 
-1. Install the [Horizon launcher](https://github.com/horizon-rust/horizon/releases) (0.2.70 or newer).
-2. Add `betterwitchhuts.hmod` to the instance's mods.
-3. The package is pinned to a specific Horizon build; the launcher checks that pin.
-
-## Licence and credit
-
-YUNG's Better Witch Huts was created by its upstream authors; the code, models and assets in the original mod
-remain theirs and are used here under **LGPL-3.0-only**. The Rust in this repository is a clean-room
-rewrite for Horizon, not a translation of the original source.
-
-- `LICENSE` — the upstream licence text.
-- `LICENSE-NOTICE.md` — what this port carries and where it came from.
-- The upstream project: https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts
-
-## Technical details
-
-```
-horizon-mod.toml   package manifest (id, version, api, [native] pin)
-Cargo.toml         the crate; depends on `horizon-mod-api` from the fetched SDK
-src/               lib.rs (the one `impl Hooks`), runtime.rs (pure logic + tests), glue
-assets/ data/      the content the package ships
-tools/             content generators and the e2e scenario
+```sh
+cargo sunrise-mod check
+cargo sunrise-mod build    # target/sunrise-mod/betterwitchhuts.smod
 ```
 
-- Build: `cargo horizon-mod build` (packages; it does not compile against the game).
-- Test: `cargo test`, `cargo clippy --all-targets -- -D warnings`.
-- In-game: `ports/tools/launcher-game.sh run betterwitchhuts` in the campaign tree, or install the
-  `.hmod` and play; the harness scenario is `tools/e2e.sh`.
+This version is made for the Sunrise Dev build `dev-2026-11-22-7cfdf81`.
 
-This repository is generated from the campaign's port at `ports/betterwitchhuts/`; the port's own
-`notes.md` is the full record (decisions, traps, evidence).
+## Licence and credits
+
+YUNG's Better Witch Huts is by YUNGNICKYOUNG and Acarii (https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts). Its structures, templates, loot tables and strings are theirs and are used here under the **GNU LGPL v3.0 only**, the original's licence; `LICENSE` holds the text.
+
+Carried to Minecraft 26.3 by AdLf0208 ([AdLf0208/yungs_better_witch_huts](https://github.com/AdLf0208/yungs_better_witch_huts)), and ported to Sunrise by arismoko. This port is distributed under the same licence.
