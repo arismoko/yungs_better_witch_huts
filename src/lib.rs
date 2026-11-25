@@ -41,7 +41,7 @@ impl Hooks for Mod {
         // A command exception shows in red (`CommandSourceStack.sendFailure`).
         let mut message = Text::literal(MESSAGE);
         message.style.color = Some("red".to_owned());
-        event.replies.push(message);
+        let _ = event.replies.push(message);
         Flow::Cancel
     }
 }
