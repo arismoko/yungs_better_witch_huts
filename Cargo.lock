@@ -13,7 +13,7 @@ dependencies = [
 
 [[package]]
 name = "betterwitchhuts"
-version = "0.3.7"
+version = "0.3.8"
 dependencies = [
  "sunrise-mod-api",
 ]

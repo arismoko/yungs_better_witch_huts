@@ -1,7 +1,7 @@
 # YUNG's Better Witch Huts for Sunrise: content in data/ and assets/, with a small native part in src/.
 id = "betterwitchhuts"
 name = "YUNG's Better Witch Huts"
-version = "0.3.7"
+version = "0.3.8"
 description = "Witch huts redesigned, plus witch circles, in swamps and mangrove swamps."
 authors = ["YUNGNICKYOUNG", "Acarii", "arismoko"]
 license = "LGPL-3.0-only"
